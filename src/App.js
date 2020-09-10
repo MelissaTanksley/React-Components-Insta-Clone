@@ -12,8 +12,8 @@ import React, { useState } from "react";
 // Import the dummyData
 
 import './App.css';
-import SearchBar from './components/SearchBar.js'
-import Posts from '.components/Posts.js'
+import SearchBar from './components/SearchBar/SearchBar.js'
+import Posts from './components/Posts/Posts.js'
 import dummyData from './dummy-data.js'
 
 
